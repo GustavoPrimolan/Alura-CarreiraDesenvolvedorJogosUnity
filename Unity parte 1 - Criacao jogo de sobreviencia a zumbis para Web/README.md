@@ -3,8 +3,8 @@
 <h1><a href="https://gustavoprimolan.itch.io/zumbiesatack" target="_blank">LINK PARA JOGAR</a></h1>
 
 <h1>Imagens do jogo</h1>
-<img src="https://github.com/GustavoPrimolan/Alura-UnityJogoSobrevivenciaZumbi/blob/master/Jogo1.PNG" />
-<img src="https://github.com/GustavoPrimolan/Alura-UnityJogoSobrevivenciaZumbi/blob/master/Jogo2.PNG" />
+<img src="Jogo1.PNG" />
+<img src="Jogo2.PNG" />
 
 -------------------------------------------------------------------
 <h1>Seção 01 - Cenário e Personagem Jogador</h1>
